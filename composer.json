@@ -28,9 +28,9 @@
     ],
     "require": {
         "doctrine/dbal": "^3.6",
-        "illuminate/cache": "^10.23|^11.0",
-        "illuminate/database": "^10.23|^11.0",
-        "saloonphp/laravel-http-sender": "^2.1",
+        "illuminate/cache": "*",
+        "illuminate/database": "*",
+        "saloonphp/laravel-http-sender": "^3.1",
         "saloonphp/laravel-plugin": "^3.5",
         "saloonphp/saloon": "^3.13"
     },
@@ -49,8 +49,6 @@
     },
     "scripts": {
         "test": "vendor/bin/phpunit"
-    },
-    "require-dev": {
     },
     "config": {
         "sort-packages": true
