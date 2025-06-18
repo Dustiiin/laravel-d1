@@ -1,10 +1,10 @@
 <?php
 
-namespace RenokiCo\L1\D1\Pdo;
+namespace dustiiin\db1\D1\Pdo;
 
 use PDO;
 use PDOStatement;
-use RenokiCo\L1\CloudflareD1Connector;
+use dustiiin\db1\CloudflareD1Connector;
 
 class D1Pdo extends PDO
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace RenokiCo\L1;
+namespace dustiiin\db1;
 
 use Saloon\Contracts\Connector;
 use Saloon\Http\Request;
