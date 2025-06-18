@@ -56,7 +56,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "RenokiCo\\L1\\L1ServiceProvider"
+                "dustiiin\\db1\\L1ServiceProvider"
             ]
         }
     }
