@@ -18,11 +18,11 @@
         "serverless architecture"
     ],
     "license": "Apache-2.0",
-    "homepage": "https://github.com/renoki-co/l1",
+    "homepage": "https://www.dustiiin.de/laravel-cloudflare-d1",
     "authors": [
         {
-            "name": "Alex Renoki",
-            "homepage": "https://github.com/rennokki",
+            "name": "Dustin Müller",
+            "homepage": "https://www.dustiiin.de",
             "role": "Developer"
         }
     ],
@@ -38,12 +38,12 @@
     },
     "autoload": {
         "psr-4": {
-            "RenokiCo\\L1\\": "src/"
+            "dustiiin\\db1\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "RenokiCo\\L1\\Test\\": "tests"
+            "dustiiin\\db1\\Test\\": "tests"
         }
     },
     "scripts": {
