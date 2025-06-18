@@ -2,7 +2,7 @@
 
 namespace dustiiin\db1;
 
-use Saloon\Contracts\Response;
+use Saloon\Http\Response;
 
 class CloudflareD1Connector extends CloudflareConnector
 {
