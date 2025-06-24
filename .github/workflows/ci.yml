@@ -24,7 +24,7 @@ jobs:
         prefer: ['prefer-lowest', 'prefer-stable']
         include:
           - laravel: '11.*'
-            testbench: '10.*'
+            testbench: '9.*'
 
     name: PHP ${{ matrix.php }} - Laravel ${{ matrix.laravel }} --${{ matrix.prefer }}
 
