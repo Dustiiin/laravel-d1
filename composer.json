@@ -53,7 +53,7 @@
         "laravel/legacy-factories": "^1.4",
         "mockery/mockery": "^1.6",
         "orchestra/testbench": "^10.3",
-        "phpunit/phpunit": "^10.0"
+        "phpunit/phpunit": "^12.2.3"
     },
     "config": {
         "sort-packages": true
