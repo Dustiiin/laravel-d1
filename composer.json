@@ -50,9 +50,9 @@
         "test": "vendor/bin/phpunit"
     },
     "require-dev": {
-        "laravel/legacy-factories": "^1.4",
-        "mockery/mockery": "^1.6",
-        "orchestra/testbench": "^10.3",
+        "laravel/legacy-factories": "^1.4.1",
+        "mockery/mockery": "^1.6.12",
+        "orchestra/testbench": "^10.4.0",
         "phpunit/phpunit": "^12.2.3"
     },
     "config": {
