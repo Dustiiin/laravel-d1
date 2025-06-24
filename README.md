@@ -1,5 +1,6 @@
 # Connects Cloudflares D1 Databases with Laravel
 
+[![Latest Stable Version](http://poser.pugx.org/dustiiin/laravel-d1/v)](https://packagist.org/packages/dustiiin/laravel-d1) [![Total Downloads](http://poser.pugx.org/dustiiin/laravel-d1/downloads)](https://packagist.org/packages/dustiiin/laravel-d1) [![Latest Unstable Version](http://poser.pugx.org/dustiiin/laravel-d1/v/unstable)](https://packagist.org/packages/dustiiin/laravel-d1) [![License](http://poser.pugx.org/dustiiin/laravel-d1/license)](https://packagist.org/packages/dustiiin/laravel-d1) [![PHP Version Require](http://poser.pugx.org/dustiiin/laravel-d1/require/php)](https://packagist.org/packages/dustiiin/laravel-d1)
 
 Extend your PHP/Laravel application with Cloudflare bindings.
 
