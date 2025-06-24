@@ -10,7 +10,7 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-        <testsuite name="Renoki Co Test Suite">
+        <testsuite name="Dustiiin Testinglocation">
             <directory>tests</directory>
         </testsuite>
     </testsuites>
